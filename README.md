@@ -2,6 +2,9 @@
 
 SEP400 Fizzy Project
 
+WE WILL GET THIS DONE LADS
+LETS GET IIIIIIIIIIIIIIIIIIIT
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
